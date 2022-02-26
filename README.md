@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Interact with the Web App
+The app is hosted on replit and can you can visit it [here.](https://gif-portal-starter.jsiewierski11.repl.co/)
+
 ## Running on Repl.it
 
 Simply hit run once and start coding. Will hot reload the web view. 
